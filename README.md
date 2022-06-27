@@ -1,8 +1,8 @@
-## I'm a Software Engineer Student 👨‍🎓, Full Stack Developer
-- 🔭 I am currently developing support c# .net
+## I'm a Software Software Support Specialist
+- 🔭 I am currently developing support c# .net sql eBA
 - 🌱 I’m currently learning
-- 🤔 I’m looking for help with c# back-end developer
-- 🥅 2022 Goals: Developing myself in the field of .net and doing an internship on this field in a good company
+- 🤔 I try to do research with big data
+- 🥅 2022 Goals: I intend to improve myself in counseling and human relations.
 - ⚡ Fun fact: I follow space and space exploration closely 🚀🌎
 
 
@@ -22,9 +22,8 @@
 <img align="left" alt="Git" width="26px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/csharp_original_logo_icon_146578.png" />
 <img align="left" alt="Git" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/microsoft-dot-net-1-1175179.png" />
 <img align="left" alt="Git" width="26px" src="https://progsoft.net/images/c-programming-language--icon-0f4a739c8ab9863270b6d7b75ed09df02d5d5128.png" />
-<img align="left" alt="Git" width="26px" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" />
-<img align="left" alt="Git" width="26px" src="https://cdn.worldvectorlogo.com/logos/angular-icon.svg" />
-<img align="left" alt="Git" width="26px" src="https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png" />
-
+<img align="left" alt="Git" width="26px" src="https://albasoft.com.tr/wp-content/uploads/2022/01/sqlserver.png" />
+<img align="left" alt="Git" width="26px" src="https://pbs.twimg.com/profile_images/1473756532827246593/KRgw2UkV_400x400.jpg" />
+<img align="left" alt="Git" width="26px" src="https://media-exp1.licdn.com/dms/image/C4D0BAQHL5tOv_WKEgA/company-logo_200_200/0/1519922033288?e=2147483647&v=beta&t=9IWmgHLUb5r4K-AZolidtzfPE5PFMwLgQFkpsJsqPfc" />
 
 <br />
