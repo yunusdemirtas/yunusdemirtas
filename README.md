@@ -1,4 +1,4 @@
-## I'm a Software Software Support Specialist
+## I'm a Software Support Specialist
 - 🔭 I am currently developing support c# .net sql eBA
 - 🌱 I’m currently learning
 - 🤔 I try to do research with big data
