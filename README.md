@@ -1,7 +1,7 @@
 ## I'm a Software Support Specialist
 - 🔭 I am currently developing support c# .net sql eBA
 - 🌱 I’m currently learning
-- 🤔 I try to do research with big data
+- 🤔 I try to do research with CSP
 - 🥅 2022 Goals: I intend to improve myself in counseling and human relations.
 - ⚡ Fun fact: I follow space and space exploration closely 🚀🌎
 
